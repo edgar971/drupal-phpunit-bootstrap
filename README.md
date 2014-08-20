@@ -1,2 +1,2 @@
-Class to bootstrap Drupal 7, to write PHPUnit tests.
-This bootstrap is functionnal with multisites installation.
+A drupal bootstrap script to create PHPUnit tests on drupal 7.
+This is compatible with multisite installtion.
