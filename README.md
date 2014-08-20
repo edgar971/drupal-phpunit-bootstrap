@@ -1,7 +1,7 @@
 PHPUNIT DRUPAL 7 BOOTSTRAP SCRIPT
 -------------------------------
 
-Use phpunit with drupal 7. This script works with multisite installation and contains and phpunit.xml.dist example to organize your testsuites.
+Use phpunit with drupal 7. This script works with multisite installation and contains a phpunit.xml.dist example to organize your testsuites.
 
 USAGE EXAMPLE :
 ----------------
