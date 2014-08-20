@@ -1,0 +1,10 @@
+<phpunit
+        strict="true"
+        bootstrap="phpunit.drupal_bootstrap.php"
+        colors="true">
+    <testsuites>
+        <testsuite name="Your test suite">
+        <directory>sites/all/modules/custom/{your_module}/tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
